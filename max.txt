@@ -1,2 +1,3 @@
 Name: Max Schumacher
-Birthday: 17.5.1989
+Birthday: 17.05.1989
+Hometown: Karlsruhe
